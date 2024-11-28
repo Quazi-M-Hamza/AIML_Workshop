@@ -1,2 +1,2 @@
 # AIML_Workshop
-Code done during the duration of our AIML Workshop
+Made during the duration of our AIML Workshop
